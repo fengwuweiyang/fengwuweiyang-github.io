@@ -15,20 +15,21 @@
 minimal_mistakes_skin    : "contrast" # "default" ,"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh"
-title                    : "朱先生手记"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "朱先生"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+locale                   : "zh" #语言选项，zh是中文
+title                    : "朱先生手记" #网站名称
+title_separator          : "欢迎访问朱先生手记" #会产生类似的网页标题Sample Page | My Awesome Site。
+subtitle                 : "Version beta 1.0" # 出现在刊头网站标题下方的网站标语
+name                     : "朱江"
+description              : "随手记一些有趣的事情" #网站说明
+url                      : "http://www.mrzhu.live" # 您站点的基本主机名和协议。如果您托管在GitHub Pages上，则类似于url: "https://github.io.mmistakes"或url:
+baseurl                  : # 网站所在的根目录。the subpath of your site, e.g. "/blog"
+repository               : # GitHub储存库名称（无需填写） username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # 要分配“ 相关帖子 ”模块中使用的后备预告片图像，请在/assets/images/目录中放置一个图形并添加文件名，_config.yml如下所示： "/assets/images/500x300.png"
+logo                     : # 网站标头徽标。path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "我的标头文字"# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+#************************评论配置*****************************
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -43,6 +44,7 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
+#=============================================================
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
