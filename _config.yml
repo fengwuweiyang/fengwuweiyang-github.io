@@ -145,12 +145,12 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/fengwuweiyang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/fengwuweiyang"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://fengwuweiyang.github.io/"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
