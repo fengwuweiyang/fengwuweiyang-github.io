@@ -128,7 +128,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png" # "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fengwuweiyang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
