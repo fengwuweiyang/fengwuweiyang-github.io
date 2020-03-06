@@ -128,7 +128,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png" #"fab fa-fw fa-twitter-square"
+      icon: "https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png" # "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fengwuweiyang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -139,17 +139,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+
 # Site Footer
 footer:
   links:
