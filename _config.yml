@@ -106,14 +106,14 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/fengwuweiyang"
     - "https://facebook.com/fengwuweiyang"
-#====================================================================
+#===========================网站分析参数=========================================
 # Analytics 默认情况下，Google Analytics（分析）处于禁用状态。
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-# Site Author 网站作者
+# =======================Site Author 网站作者========================
 author:
   name             : "Zhu Jiang" #作者名字
   avatar           : # 头像 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -140,7 +140,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# Site Footer
+# ====================== Site Footer 站点页脚链接=====================
 footer:
   links:
     - label: "Twitter"
@@ -163,7 +163,7 @@ footer:
       # url:
 
 
-# Reading Files
+# ===================Reading Files jekyll 服务器生成监控范围&参数==================
 include:
   - .htaccess
   - _pages
