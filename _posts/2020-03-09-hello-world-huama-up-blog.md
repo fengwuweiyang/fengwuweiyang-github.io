@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 朱先生Notes上线了
 category: 
   - travel
