@@ -114,7 +114,7 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 #网站标题图
-title: "新模版测试页面，体验新模版功能"
+#title: "新模版测试页面，体验新模版功能"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
