@@ -1,6 +1,6 @@
 ---
 title: CSS标签
-layout: tag
+layout: home
 permalink: /tags/css/
 taxonomy: css
 ---
